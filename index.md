@@ -5,3 +5,8 @@
 layout: single
 author_profile: true
 ---
+I am a *PhD student* in **Quantum Science** at the University of Maryland College Park.
+My research focuses on three main areas:
+[] A
+[] B
+[] C
