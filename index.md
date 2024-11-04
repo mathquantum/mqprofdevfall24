@@ -8,7 +8,7 @@ author_profile: true
 I am a *PhD student* in **Quantum Science** at the University of Maryland College Park.
 My research focuses on three main areas:
 [] Implementation of dynamic error correction codes, drawing from the work of Author[^1] [^2]
-[] B
+[] B and D
 [] C
 
 [^1]: Reference 1
